@@ -8,7 +8,7 @@ Security-focused developer with an interest in web application vulnerabilities a
 
 - Studying for **BSCP** and working through PortSwigger Web Security Academy
 - Practicing on CTF challenges (web, misc) and LeetCode
-- Interested in red teaming, offensive tooling, and web application exploitation
+- Interested in red teaming, offensive tooling, web application exploitation and binary exploitation
 - Building tools that sit in the grey area between automation and exploitation
 
 ---
@@ -16,10 +16,14 @@ Security-focused developer with an interest in web application vulnerabilities a
 ### 🏆 Goals
 
 - [ ] CompTIA Security+
-- [ ] BSCP — Burp Suite Certified Practitioner
-- [ ] OSCP — Offensive Security Certified Professional
-- [ ] OSWE — Offensive Security Web Expert
-- [ ] OSEP — Offensive Security Experienced Penetration Tester
+- [ ] BSCP - Burp Suite Certified Practitioner
+- [ ] CPTS - Certified Penetration Testing Specialist
+- [ ] CCNA - Cisco Certified Network Associate
+
+Maybe if i rich enough to buy these:
+- [ ] OSCP - Offensive Security Certified Professional
+- [ ] OSWE - Offensive Security Web Expert
+- [ ] OSEP - Offensive Security Experienced Penetration Tester
 
 Starting with web-focused certifications before moving into full-scope penetration testing.
 Long-term goal is to master Active Directory attacks and reach OSEP-level proficiency in advanced evasion and pivoting.
